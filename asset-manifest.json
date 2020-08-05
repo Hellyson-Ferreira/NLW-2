@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/NLW-2/static/css/main.07201822.chunk.css",
+    "main.js": "/NLW-2/static/js/main.e9b04c89.chunk.js",
+    "main.js.map": "/NLW-2/static/js/main.e9b04c89.chunk.js.map",
+    "runtime-main.js": "/NLW-2/static/js/runtime-main.fa2f4874.js",
+    "runtime-main.js.map": "/NLW-2/static/js/runtime-main.fa2f4874.js.map",
+    "static/js/2.bb1cc8ca.chunk.js": "/NLW-2/static/js/2.bb1cc8ca.chunk.js",
+    "static/js/2.bb1cc8ca.chunk.js.map": "/NLW-2/static/js/2.bb1cc8ca.chunk.js.map",
+    "index.html": "/NLW-2/index.html",
+    "precache-manifest.c35e383fcbfaff2ef9937f4e5c780788.js": "/NLW-2/precache-manifest.c35e383fcbfaff2ef9937f4e5c780788.js",
+    "service-worker.js": "/NLW-2/service-worker.js",
+    "static/css/main.07201822.chunk.css.map": "/NLW-2/static/css/main.07201822.chunk.css.map",
+    "static/js/2.bb1cc8ca.chunk.js.LICENSE.txt": "/NLW-2/static/js/2.bb1cc8ca.chunk.js.LICENSE.txt",
+    "static/media/back.svg": "/NLW-2/static/media/back.dc8c47fa.svg",
+    "static/media/give-classes.svg": "/NLW-2/static/media/give-classes.156102ee.svg",
+    "static/media/landing.svg": "/NLW-2/static/media/landing.211f2bb0.svg",
+    "static/media/logo.svg": "/NLW-2/static/media/logo.86fef799.svg",
+    "static/media/purple-heart.svg": "/NLW-2/static/media/purple-heart.bfdb3ebe.svg",
+    "static/media/study.svg": "/NLW-2/static/media/study.e7a7e1b4.svg",
+    "static/media/warning.svg": "/NLW-2/static/media/warning.6dfaa2f9.svg",
+    "static/media/whatsapp.svg": "/NLW-2/static/media/whatsapp.45c6e6ec.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa2f4874.js",
+    "static/js/2.bb1cc8ca.chunk.js",
+    "static/css/main.07201822.chunk.css",
+    "static/js/main.e9b04c89.chunk.js"
+  ]
+}
