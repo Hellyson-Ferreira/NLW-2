@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/NLW-2/static/css/main.07201822.chunk.css",
-    "main.js": "/NLW-2/static/js/main.e9b04c89.chunk.js",
-    "main.js.map": "/NLW-2/static/js/main.e9b04c89.chunk.js.map",
+    "main.css": "/NLW-2/static/css/main.1a38f812.chunk.css",
+    "main.js": "/NLW-2/static/js/main.f8e175f7.chunk.js",
+    "main.js.map": "/NLW-2/static/js/main.f8e175f7.chunk.js.map",
     "runtime-main.js": "/NLW-2/static/js/runtime-main.fa2f4874.js",
     "runtime-main.js.map": "/NLW-2/static/js/runtime-main.fa2f4874.js.map",
     "static/js/2.bb1cc8ca.chunk.js": "/NLW-2/static/js/2.bb1cc8ca.chunk.js",
     "static/js/2.bb1cc8ca.chunk.js.map": "/NLW-2/static/js/2.bb1cc8ca.chunk.js.map",
     "index.html": "/NLW-2/index.html",
-    "precache-manifest.c35e383fcbfaff2ef9937f4e5c780788.js": "/NLW-2/precache-manifest.c35e383fcbfaff2ef9937f4e5c780788.js",
+    "precache-manifest.49a1a728662f3353ee17ae635cf1d6b3.js": "/NLW-2/precache-manifest.49a1a728662f3353ee17ae635cf1d6b3.js",
     "service-worker.js": "/NLW-2/service-worker.js",
-    "static/css/main.07201822.chunk.css.map": "/NLW-2/static/css/main.07201822.chunk.css.map",
+    "static/css/main.1a38f812.chunk.css.map": "/NLW-2/static/css/main.1a38f812.chunk.css.map",
     "static/js/2.bb1cc8ca.chunk.js.LICENSE.txt": "/NLW-2/static/js/2.bb1cc8ca.chunk.js.LICENSE.txt",
     "static/media/back.svg": "/NLW-2/static/media/back.dc8c47fa.svg",
     "static/media/give-classes.svg": "/NLW-2/static/media/give-classes.156102ee.svg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.fa2f4874.js",
     "static/js/2.bb1cc8ca.chunk.js",
-    "static/css/main.07201822.chunk.css",
-    "static/js/main.e9b04c89.chunk.js"
+    "static/css/main.1a38f812.chunk.css",
+    "static/js/main.f8e175f7.chunk.js"
   ]
 }
