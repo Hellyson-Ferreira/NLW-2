@@ -29,7 +29,7 @@ Este projeto contém as seguintes tecnologias:
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>[TypeScript](https://www.typescriptlang.org/)
 - <code><img height="20" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/expo_logo_icon_145293.png"></code>[Expo](https://expo.io/)
 - <code><img height="20" src="http://knexjs.org/assets/images/knex.png"></code>[Knex](http://knexjs.org/)
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>[Sqlite3](https://www.sqlite.org/index.html)
+- <code><img height="20" src="https://www.sqlite.org/images/sqlite370_banner.gif"></code>[Sqlite3](https://www.sqlite.org/index.html)
 
 
 ## 🔖 Como Executar
