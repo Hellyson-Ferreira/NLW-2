@@ -15,11 +15,11 @@ const TeacherItem: React.FC<TeacherItemProps> = (props) => {
     return (
         <article className="teacher-item">
             <header>
-                <img src={props.avatar} alt="" />
+                <img src={props.avatar} alt="avatar" />
                 <div>
                     <strong>{props.name}</strong>
                     <span>{props.subject}</span>
-                </div>bio
+                </div>
             </header>
             <p>
                 {props.bio}
